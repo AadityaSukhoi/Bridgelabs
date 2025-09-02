@@ -1,1 +1,3 @@
 *.class
+.gitignore
+Strings_yesterday
